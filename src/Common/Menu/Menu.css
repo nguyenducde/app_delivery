@@ -1,0 +1,9 @@
+ul>li{
+  cursor: pointer;
+  text-decoration: none;
+  margin: 1rem;
+  list-style-type: none
+}
+ul>li:hover {
+  background-color: aqua;
+}
